@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Labour's McDonnell considers giving workers right to buy firms 4 hours ago  From the section UK Politics Image copyrightReuters A Labour government could give e"
-datePublished: '2016-01-21T16:19:36.432Z'
+datePublished: '2016-01-21T16:19:36.506Z'
 dateModified: '2016-01-21T16:19:30.591Z'
 author: []
 title: "Labour's McDonnell"
