@@ -1,6 +1,6 @@
 name: CC Test Site
 favicon: null
-layout_spectrum: 0.15291837160475552
+layout_spectrum: 0.03907
 typography_spectrum: 0.1282597549725324
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5571284575853497
-  lightness: 0.1734364505391568
-  saturation: 0.26725026522763073
-  rhythmicContrast: 0.3693146430887282
+  brandStrength: 0.5625
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
