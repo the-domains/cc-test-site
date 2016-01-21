@@ -1,24 +1,24 @@
 ---
-description: "Labour's McDonnell considers giving workers right to buy firms 4 hours ago  From the section UK Politics Image copyrightReuters A Labour government could give e"
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://www.bbc.com/news/uk-politics-35370234'
+inLanguage: null
+starred: true
+keywords: []
+description: "Labour's McDonnell considers giving workers right to buy firms 4 hours ago  From the section UK Politics Image copyrightReuters A Labour government could give e"
+datePublished: '2016-01-21T16:19:07.734Z'
+dateModified: '2016-01-21T16:19:04.230Z'
 author: []
-datePublished: '2016-01-21T16:18:32.177Z'
+title: ''
+sourcePath: _posts/2016-01-21-labours-mcdonnell-considers-giving-workers-right-to-buy-fir.md
+published: true
+authors: []
 publisher:
   name: bbc.com
   domain: www.bbc.com
   url: null
   favicon: null
-dateModified: '2016-01-21T16:18:27.797Z'
-title: ''
-sourcePath: _posts/2016-01-21-labours-mcdonnell-considers-giving-workers-right-to-buy-fir.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-authors: []
 _context: 'http://schema.org'
 _type: Article
 
