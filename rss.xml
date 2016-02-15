@@ -4,7 +4,7 @@
         <description><![CDATA[CC Test Site]]></description>
         <link>https://thegrid.ai/cc-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 23:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 23:53:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cc-test-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Alzheimer's preventative drug hope - BBC News]]></title>
@@ -50,10 +50,10 @@
         </item>
         <item>
             <title><![CDATA[Test Post...]]></title>
-            <description><![CDATA[<article><h1>Test Post...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6da53282b135097bc9eabb33f6917ab1e7a4997f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Test Post...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7cef136eefe48eca5d22a38ddce93b0acfec41b.jpg"></article>]]></description>
             <link>https://thegrid.ai/cc-test-site/7470bdf3-244d-442c-9ee4-cb13fd1b886a/index.html</link>
             <guid isPermaLink="false">7470bdf3-244d-442c-9ee4-cb13fd1b886a</guid>
-            <pubDate>Mon, 15 Feb 2016 23:52:03 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 23:53:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
