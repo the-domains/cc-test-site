@@ -1,19 +1,4 @@
-name: CC Test Site
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.50211
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#2b2b2b'
@@ -25,4 +10,23 @@ color:
   lightness: 0.125
   saturation: 0.125
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: CC Test Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Test
+    id: 7470bdf3-244d-442c-9ee4-cb13fd1b886a
+    type: content
+favicon: null
 purpose: []
